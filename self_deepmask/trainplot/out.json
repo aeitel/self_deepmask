@@ -1,0 +1,1 @@
+{"Loss":{"data":[{"name":"Train","y":[0.5,0.7,0.8],"x":[1,2,3]},{"name":"Test","y":[0.45,0.6,0.7],"x":[1,2,3]}],"layout":{"title":"Loss"}},"info_str":{"tag":"My First Plot","created_time":"Wed Nov 28 14:03:25 CET 2018"},"Accracy":{"data":[{"name":"Train","y":[0.5,0.7,0.8],"x":[1,2,3]},{"name":"Test","y":[0.45,0.6,0.7],"x":[1,2,3]}],"layout":{"title":"Accracy"}}}

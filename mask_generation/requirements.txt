@@ -1,0 +1,25 @@
+click==6.7
+cycler==0.10.0
+Cython==0.29.17
+decorator==4.4.2
+imagecodecs==2020.2.18
+imageio==2.8.0
+kiwisolver==1.2.0
+matplotlib==3.2.1
+networkx==2.4
+numpy==1.18.4
+opencv-python==4.2.0.34
+pfm==0.6.0
+Pillow==7.1.2
+pkg-resources==0.0.0
+-e git+https://github.com/waspinator/pycococreator.git@d29534e36aad6c30d7e4dadd9f4f7b0e344a774c#egg=pycococreatortools
+pycocotools==2.0
+pyparsing==2.4.7
+pypng==0.0.20
+python-dateutil==2.8.1
+PyWavelets==1.1.1
+scikit-image==0.17.2
+scipy==1.4.1
+six==1.14.0
+texttable==1.6.2
+tifffile==2020.5.11
