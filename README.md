@@ -26,6 +26,7 @@ If you find SelfDeepMask useful in your research, please consider citing:
 All code was tested on a single machine equipped with an NVIDIA Titan X GPU and Ubuntu 18.04.
 - Torch7 (For CUDA 10.0 I use the following Torch7 repo (https://github.com/nagadomi/distro))
 - CUDA >= 10.0
+- Python 3.6.9 (with minor modifications also works on 2.7 ) 
 - [Cocoapi] (https://github.com/cocodataset/cocoapi)
 
 ### Quick Start
