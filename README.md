@@ -2,6 +2,7 @@
 
 
 # Self-supervised  Transfer  Learning  for  Instance  Segmentation  through Physical  Interaction
+This is the code for our [IROS 2019 paper](https://arxiv.org/abs/2005.09484).
 Created by Andreas Eitel at [AIS](http://ais.informatik.uni-freiburg.de/) at University of Freiburg, Germany.
 
 ### Introduction
